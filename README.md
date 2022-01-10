@@ -9,8 +9,12 @@ https://drive.google.com/drive/folders/1akKKb2qHrMLq1cBYgCQ_9Orx9Q9Wzpfe?usp=sha
 # How-To
 
 ```{bash, eval = FALSE}
-# Clone the project repo
+# Clone the project repo 
+# Using SSH
 git clone git@github.com:GavinMasterson/dvc-share-demo.git
+
+# OR using HTTPS
+git clone https://github.com/GavinMasterson/dvc-share-demo.git
 
 # Go to folder
 cd dvc-share-demo
