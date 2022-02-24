@@ -1,4 +1,4 @@
-# Sharing Projects with DVC-tracked data files :han
+# Sharing Projects with DVC-tracked data files
 This repo is to demonstrate a dvc pipeline when the data is stored outside the git repo. 
 
 # Publicly Shared Google Drive Folder 📊
@@ -24,7 +24,7 @@ dvc pull
 ```
 Follow the link that is shown to you and give DVC full permissions to access and edit the drive folder.
 
-🚩 Some error messages will be thrown because some files are missing from the pipeline contained in `dvc.yaml`. 🚩
+🚩 Some error messages will be thrown because some files are missing from the pipeline contained in `dvc.yaml`. 🚩  
  Don't worry - these files are created by the pipeline. 🔨
 
 ```{bash}
